@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.playermanager</groupId>
+  <artifactId>TeamPlayerV3</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130131111716</lastUpdated>
+  </versioning>
+</metadata>
